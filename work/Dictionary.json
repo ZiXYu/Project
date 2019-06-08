@@ -1,13 +1,12 @@
 {
-  "Id": "83940193443",
-  "Name": "Discontinued",
-  "Index": -1,
+  "出仓单号": "83940193443",
+  "客户名": "Discontinued",
   "NameInSource": "Discontinued",
-  "Alias": "Discontinued",
+  "别名": "Discontinued",
   "Type": "System.Double",
-  "BatchCloths": [{
-		"CategoryID" : 1,
-		"ShipmentId": "83940193443",
+  "布匹列表": [{
+		"布匹编号" : 1,
+		"出仓单": "83940193443",
 		"CategoryName" : "Beverages",
 		"Description" : "Soft drinks, coffees, teas, beers, and ales"
 	}]
