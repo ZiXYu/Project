@@ -1,4 +1,5 @@
 {
+  "Id": "83940193443",
   "Name": "Discontinued",
   "Index": -1,
   "NameInSource": "Discontinued",
@@ -6,6 +7,7 @@
   "Type": "System.Double",
   "BatchCloths": [{
 		"CategoryID" : 1,
+		"ShipmentId": "83940193443",
 		"CategoryName" : "Beverages",
 		"Description" : "Soft drinks, coffees, teas, beers, and ales"
 	}]
